@@ -1,0 +1,16 @@
+name: MetabProjectionViz
+channels:
+  - defaults
+  - conda-forge
+  - cimcb
+dependencies:
+  - python=3.7.3
+  - jupyter=1.0.0
+  - bokeh=1.2.0
+  - numpy=1.16.3
+  - pandas=0.24.2
+  - openpyxl=2.6.1
+  - theano=1.0.4
+  - cimcb=2.1.0
+  - xlrd=1.2.0
+  - keras=2.2.4
